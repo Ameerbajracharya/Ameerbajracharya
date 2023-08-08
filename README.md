@@ -6,7 +6,7 @@
       
       🎓   Studying Master of Business Information System @Australian Institute of Higher Education.
       
-      💼   Full-Stack Developer and Business Analyst.
+      💼   Full-Stack Developer @SQM Research, Australia.
       
       🌱   Enthusiast in Full-Stack, Business Analysis and Artificial Intelligence .
       
