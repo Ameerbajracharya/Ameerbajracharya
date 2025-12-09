@@ -4,11 +4,9 @@
       
       🤔   Exploring new technologies and developing software solutions and quick hacks.
       
-      🎓   Studying Master of Business Information System @Australian Institute of Higher Education.
-      
       💼   Full-Stack Developer @SQM Research, Australia.
       
-      🌱   Enthusiast in Full-Stack, Business Analysis and Artificial Intelligence .
+      🌱   Enthusiast in Full-Stack, Business Analysis, Stock Market and Artificial Intelligence .
       
       ✍️   Figuring out latest Web trends and Businesses as hobbies/side hustles.
       
@@ -22,4 +20,4 @@
       
       🛢   MySQL | MariaDB | PostgreSQL | Postman
       
-      🔧  Visual Studio code | Git | Github | Gitlab
+      🔧  Visual Studio code | Git | Github | Gitlab | Copilot | Automation
