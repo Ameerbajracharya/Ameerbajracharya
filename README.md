@@ -14,7 +14,7 @@
 
 🛠 Tech Stack
 
-      💻  PHP | Laravel | JavaScript | React | C++ | JQuery
+      💻  PHP | Laravel | Python | JavaScript | React | C++ | JQuery | Scrapy
       
       🌐  Full-Stack | React | HTML | CSS | JavaScript | Bootstrap | Tailwind
       
